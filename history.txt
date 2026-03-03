@@ -1,0 +1,20 @@
+ 1152  git add . 
+ 1153  .gitignore
+ 1154  gitignore
+ 1155  git add gitignore
+ 1156  touch .gitignore
+ 1157  ls -a
+ 1158  nano .gitignore
+ 1159  nano .gitignore
+ 1160  cat .gitignore
+ 1161  git add . 
+ 1162  git commit -m "added gitignore:
+ 1163  git commit -m "added gitignore"
+ 1164  git push 
+ 1165  git status 
+ 1166  git branch 
+ 1167  ls 
+
+# Write 200 most recent bash commands to history.txt
+history | tail -n 200 >> history.txt
+
